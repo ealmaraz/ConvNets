@@ -5,6 +5,7 @@ In this repository, I implement some projects on Deep Learning using Convoluted 
 
 ### 1. malaria_sgd ###
 Malaria Cell detection using ConvNets
+
 Image credits: Centers for Disease Control and Prevention's Public Health Image Library 
 
 ### Contact ###
